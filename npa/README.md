@@ -5,13 +5,11 @@
 [![Built With](https://img.shields.io/badge/Built%20With-WordPress-blue)](#)
 [![UI/UX](https://img.shields.io/badge/Design-Clean%20%26%20Responsive-orange)](#)
 
----
 
 ## 🧠 Overview
 
 The National Parents Association (NPA) represents parents with children in schools across Kenya. I was responsible for designing and developing a public-facing website that communicates their mission, news, and events effectively — especially on mobile.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +29,6 @@ The National Parents Association (NPA) represents parents with children in schoo
 🎨 UI/UX ▓▓▓▓▓▓▓▓▓ 90%
 
 
----
 
 ## 📊 Highlights & Impact
 
@@ -40,8 +37,6 @@ The National Parents Association (NPA) represents parents with children in schoo
 📰 Structured News Updates
 🌐 National Visibility Increased
 
-
----
 
 ## 🔒 Disclaimer
 
@@ -55,7 +50,6 @@ I do **not** share or distribute the actual files or backend access due to:
 
 For employers or clients who wish to **review code samples or technical breakdowns**, I can share **sample code**, **theme structure**, or **mocked demos** upon request.
 
----
 
 ## 🔗 Visit Live Site  
 👉 [https://npa.co.ke](https://npa.co.ke)
