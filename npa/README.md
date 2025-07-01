@@ -30,9 +30,6 @@ The National Parents Association (NPA) represents parents with children in schoo
 💻 Hosting ▓▓▓▓▓▓▓▓ 80%
 🎨 UI/UX ▓▓▓▓▓▓▓▓▓ 90%
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -43,9 +40,6 @@ Edit
 📰 Structured News Updates
 🌐 National Visibility Increased
 
-yaml
-Copy
-Edit
 
 ---
 
