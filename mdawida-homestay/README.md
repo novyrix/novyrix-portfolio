@@ -1,7 +1,6 @@
 # Mdawida Homestay Website
 > A digital presence for a Nairobi homestay, featuring seamless online booking integration.
 
-<img src="https://via.placeholder.com/1200x600.png?text=Screenshot+of+mdawidahomestay.org" alt="Screenshot of the Mdawida Homestay website" style="width:100%; max-width:800px; display:block; margin: 0 auto;">
 
 [![Live Website](https://img.shields.io/website?url=https%3A%2F%2Fmdawidahomestay.org)](https://mdawidahomestay.org)
 [![Built With](https://img.shields.io/badge/Built%20With-WordPress-blue)](#)
