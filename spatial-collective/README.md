@@ -1,4 +1,4 @@
-# Spatial Collective Website Revamp
+# Spatial Collective Website
 > Modernizing a data-driven company's digital presence for enhanced performance and user experience.
 
 
