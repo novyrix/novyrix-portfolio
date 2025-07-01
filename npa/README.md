@@ -21,8 +21,7 @@ The National Parents Association (NPA) represents parents with children in schoo
 🔸 Google Analytics  
 🔸 Custom Metadata for SEO  
 🔸 Mobile-first responsive design  
-
-**Visual Overview:**  
+ 
 📦 CMS ▓▓▓▓▓▓▓▓▓▓ 100%
 📈 Analytics ▓▓▓▓▓▓▓ 70%
 💻 Hosting ▓▓▓▓▓▓▓▓ 80%
